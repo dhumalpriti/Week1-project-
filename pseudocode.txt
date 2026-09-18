@@ -1,0 +1,11 @@
+START
+  Load logistics shipment CSV
+  Clean missing/invalid values
+  Convert date and numeric fields
+  Calculate shipment and delivery KPIs
+  Calculate cost per kg and fuel efficiency
+  Group shipments by route
+  Compare route-level delivery performance
+  Flag routes with on-time rate below 80%
+  Export KPI and route summaries
+END
